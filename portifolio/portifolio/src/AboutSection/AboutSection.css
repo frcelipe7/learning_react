@@ -1,0 +1,19 @@
+section#about_me .container {
+    padding-top: 70px;
+}
+section#about_me .container .icon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+section#about_me .container .icon img {
+    max-width: 140px;
+    max-height: 40px;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+}
+section#about_me .container .icon p {
+    font-weight: 300;
+    width: 70%;
+}
