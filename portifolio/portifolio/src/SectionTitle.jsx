@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 
-function TitleSection(props) {
+function SectionTitle(props) {
     const title = props.title.toUpperCase();
 
     return (
@@ -11,8 +11,8 @@ function TitleSection(props) {
     );
 }
 
-TitleSection.propTypes = {
+SectionTitle.propTypes = {
     title: PropTypes.string.isRequired
 }
 
-export default TitleSection;
+export default SectionTitle;

@@ -1,4 +1,4 @@
-import SectionTitle from "../TitleSection";
+import SectionTitle from "../SectionTitle";
 import "./HardSkillsSection.css";
 
 function HardSkillsSection() {
