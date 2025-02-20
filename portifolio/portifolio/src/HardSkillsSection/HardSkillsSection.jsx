@@ -16,7 +16,7 @@ function HardSkillsSection() {
         "System Modeling": system_modeling_tools
     };
 
-    console.log(tools);
+    console.log(tools)
     
     return (
         <section id="hard_skills">

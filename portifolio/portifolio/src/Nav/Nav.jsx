@@ -9,7 +9,7 @@ function Nav() {
         {section: "hard_skills", text: "Hard Skills", key: 2},
         {section: "projects", text: "Projects", key: 3},
         {section: "contacts", text: "Contacts", key: 4},
-        {section: "cv", text: "Resume", key: 4},
+        {section: "cv", text: "Resume", key: 5},
     ]
 
     const buttons = sections.map(button => 
