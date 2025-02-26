@@ -31,6 +31,20 @@ function ProjectsSection() {
 
             <div className="container">
                 {showProjects}
+
+                <div className="cta">
+                    <div className="top">
+                        <span>Did you like my projects?</span>
+                        <h2>Get in touch with me!</h2>
+                    </div>
+
+                    <p>
+                        If you&apos;re looking for customized solutions or want to discuss new ideas,
+                        I&apos;m here tohelp. Get in touch,and let&apos;s turn your goals into reality!
+                    </p>
+
+                    <a href="#contacts" className="contato">Contact me</a>
+                </div>
             </div>
         </section>
     );
